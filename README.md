@@ -11,10 +11,10 @@ Oferta - <a title="Gazduire WordPress" href="https://dds.ro/gazduire-wordpress">
 Oferta - <a title="Servere VPS" href="https://dds.ro/servere-vps">Servere VPS</a><br>
 Oferta - <a title="Servere Dedicate" href="https://dds.ro/servere-dedicate">Servere Dedicate</a><br>
 
-Folosește codul promoțional: HELLO
-Ai o reducere de 100% pentru orice pachet de Găzduire în prima lună.
+Folosește codul promoțional: HELLO<br>
+Ai o reducere de 100% pentru orice pachet de Găzduire în prima lună.<br>
 
 =====================================================================
 
-Folosește codul promoțional: DDS2025
-Ai o reducere de 50% pentru orice pachet de VPS în prima lună.
+Folosește codul promoțional: DDS2025<br>
+Ai o reducere de 50% pentru orice pachet de VPS în prima lună.<br>
